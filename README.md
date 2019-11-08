@@ -1,5 +1,4 @@
-# API-Jokes
+# Tuto NodeJS
 
 ## How to use
-You will need to create an HTTP request, then add an header 'method', 'all' or 'random'.
-The API will receive this request (whatever the method) and, if the header is right, will send a JSON object from "jokes.json".
+This tuto will help you to create an HTTP server in nodeJS. The server will response on requests send on it with the value of the header "HeaderKey" and the body of the request.
